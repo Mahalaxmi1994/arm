@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "name": {
-            "value": "table6mawebapp1"
+            "value": "table6mawebapp"
         },
         "linuxFxVersion": {
             "value": "TOMCAT|8.5-jre8"
